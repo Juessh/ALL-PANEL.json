@@ -130,7 +130,22 @@
 {
          "name": "SG-DRK-003",
          "url": "https://raw.githubusercontent.com/Juessh/ALL-PANEL-FILES/main/SG-DarkTunnel-003.ovpn"
+      },
+
+{
+         "name": "SG-SPD-001",
+         "url": "https://raw.githubusercontent.com/Juessh/ALL-PANEL-FILES/main/SG-DarkTunnel-001.ovpn"
+      },
+{
+         "name": "SG-SPD-002",
+         "url": "https://raw.githubusercontent.com/Juessh/ALL-PANEL-FILES/main/SG-DarkTunnel-002.ovpn"
+      },
+
+{
+         "name": "SG-SPD-003",
+         "url": "https://raw.githubusercontent.com/Juessh/ALL-PANEL-FILES/main/SG-DarkTunnel-003.ovpn"
       }
+
 
 
 
