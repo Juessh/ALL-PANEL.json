@@ -116,7 +116,22 @@
 {
          "name": "SG-XAM-010",
          "url": "https://raw.githubusercontent.com/Juessh/ALL-PANEL-FILES/main/XAM-010.ovpn"
+      },
+
+{
+         "name": "SG-DRK-001",
+         "url": "https://raw.githubusercontent.com/Juessh/ALL-PANEL-FILES/main/XAM-008.ovpn"
+      },
+{
+         "name": "SG-DRK-002",
+         "url": "https://raw.githubusercontent.com/Juessh/ALL-PANEL-FILES/main/XAM-009.ovpn"
+      },
+
+{
+         "name": "SG-DRK-003",
+         "url": "https://raw.githubusercontent.com/Juessh/ALL-PANEL-FILES/main/XAM-010.ovpn"
       }
+
 
 
   ],
