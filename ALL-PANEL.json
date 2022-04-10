@@ -134,16 +134,21 @@
 
 {
          "name": "SG-SPD-001",
-         "url": "https://raw.githubusercontent.com/Juessh/ALL-PANEL-FILES/main/Speedy-001.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/SPD-001.ovpn"
       },
 {
          "name": "SG-SPD-002",
-         "url": "https://raw.githubusercontent.com/Juessh/ALL-PANEL-FILES/main/Speedy-002.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/SPD-002.ovpn"
       },
 
 {
          "name": "SG-SPD-003",
-         "url": "https://raw.githubusercontent.com/Juessh/ALL-PANEL-FILES/main/Speedy-003.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/SPD-003.ovpn"
+      },
+
+{
+         "name": "SG-SPD-003",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/SPD-004.ovpn"
       },
 
 {
@@ -196,6 +201,6 @@
 
   ],
 "message":"အကုန်ပြင်ပီးပါပီ\n•COR & XAM\n•Version:7\n\n•Facebook By: JueHtet ",
-   "title":"💙31 March 2022💙" ,
-   "version": 7
+   "title":"💙10 April 2022💙" ,
+   "version": 8
 }
